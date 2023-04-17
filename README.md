@@ -1,2 +1,3 @@
-# TTK4275-Classifier
+# TTK4275-Classifier :bowtie:
 Project Spring 2023
+
