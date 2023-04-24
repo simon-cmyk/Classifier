@@ -1,6 +1,18 @@
 # TTT4275-Classifier :bowtie:
 Project Spring 2023
 
+1. Classifying Iris species 
+
+[Tasks](digits.pdf)
+
+<img src="Iris_TTT4275/Klassene.jpg" width="200">
+
+2. Classifying numbers
+
+[Tasks](isis.pdf)
+
+<img src="MNist_ttt4275/numbers.png" width="200">
+
 Inspirations: 
 
 * https://github.com/mathiasharper/TTK4275
