@@ -9,7 +9,7 @@ Project Spring 2023
 
 2. Classifying numbers
 
-[Tasks](isis.pdf)
+[Tasks](iris.pdf)
 
 <img src="MNist_ttt4275/numbers.png" width="200">
 
