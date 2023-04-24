@@ -13,6 +13,9 @@ Project Spring 2023
 
 <img src="MNist_ttt4275/numbers.png" width="200">
 
+## Report
+[Take me to Overleaf](https://www.overleaf.com/3399183161zdtksjxtmzhv)
+
 Inspirations: 
 
 * https://github.com/mathiasharper/TTK4275
@@ -22,3 +25,9 @@ Inspirations:
 * https://github.com/ariaalinejad/TTT4275-Classification-project
 * https://github.com/ariaalinejad/TTT4275-Classification-project
 * https://github.com/VegardIversen/TTT4275_project
+
+# Requirements
+ 
+```python
+    pip install -r requirements.txt
+```
