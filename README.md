@@ -31,3 +31,8 @@ Inspirations:
 ```python
     pip install -r requirements.txt
 ```
+
+## Questions for The teaching staff
+* Is it fine getting the data for the MNist from keras and tensorflow (online)
+* is a visualization (plot MSE vs iterations for different alphas) for choosing the step-length necesarry
+* 
