@@ -16,16 +16,6 @@ Project Spring 2023
 ## Report
 [Take me to Overleaf](https://www.overleaf.com/3399183161zdtksjxtmzhv)
 
-Inspirations: 
-
-* https://github.com/mathiasharper/TTK4275
-* https://github.com/markusskagemo/TTK4275
-* https://github.com/Yathuwaran/TTT4275
-* https://github.com/helenelonvik/TTT4275-Classification
-* https://github.com/ariaalinejad/TTT4275-Classification-project
-* https://github.com/ariaalinejad/TTT4275-Classification-project
-* https://github.com/VegardIversen/TTT4275_project
-
 # Requirements
  
 ```python
