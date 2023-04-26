@@ -14,7 +14,7 @@ Project Spring 2023
 <img src="MNist_ttt4275/numbers.png" width="200">
 
 ## Report
-[Take me to Overleaf](https://www.overleaf.com/3399183161zdtksjxtmzhv)
+to be published
 
 # Requirements
  
