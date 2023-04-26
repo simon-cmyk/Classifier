@@ -35,7 +35,7 @@ TODO: fill out this part
 ## Questions for The teaching staff
 * Is it fine getting the data for the MNist from keras and tensorflow (online)
 * is a visualization (plot MSE vs iterations for different alphas) for choosing the step-length necesarry
-* 
+* +- in table
 ### Credits :trophy:
 * Simon Lervåg Breivik
 * Marius Vårdal
