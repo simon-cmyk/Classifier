@@ -1,0 +1,2 @@
+The data is collected vie keras and tensorflow. via the mnist.load_data().
+We think that this is better than having it stored locally.
