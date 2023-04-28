@@ -16,13 +16,13 @@ Project Spring 2023
 ## Report
 TODO: publish this
 
-# Requirements
+# Set up
  
+When the libraries are downloaded you can just go to `iris.ipynb` anad `NN_classifier_mnist.ioynb` and run them.
+## Requirements 
 ```python
     pip install -r requirements.txt
 ```
-
-TODO: fill out this part 
 
 ## Libraries and their responsibilities
 * matplotlib 
@@ -36,6 +36,7 @@ TODO: fill out this part
 * Is it fine getting the data for the MNist from keras and tensorflow (online)
 * is a visualization (plot MSE vs iterations for different alphas) for choosing the step-length necesarry
 * +- in table
+* Choice of hyperparameters
 ### Credits :trophy:
 * Simon Lervåg Breivik
 * Marius Vårdal
