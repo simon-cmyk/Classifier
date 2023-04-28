@@ -14,7 +14,9 @@ Project Spring 2023
 <img src="Resources/numbers.png" width="200">
 
 ## Report
-TODO: publish this
+[Tasks](Resources/TTT4275_Classifier_report.pdf)
+
+The template is fetched from the subject TFY4115 Physics.
 
 # Set up
  
