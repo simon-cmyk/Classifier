@@ -16,7 +16,7 @@ Project Spring 2023
 ## Report
 [Tasks](Resources/TTT4275_Classifier_report.pdf)
 
-The template is fetched from the subject TFY4115 Physics.
+The template for the report is fetched from the subject TFY4115 Physics.
 
 # Set up
  
@@ -34,11 +34,6 @@ When the libraries are downloaded you can just go to `iris.ipynb` anad `NN_class
 * keras
 * tensorflow 
 
-## Questions for The teaching staff
-* Is it fine getting the data for the MNist from keras and tensorflow (online)
-* is a visualization (plot MSE vs iterations for different alphas) for choosing the step-length necesarry
-* +- in table
-* Choice of hyperparameters
 ### Credits :trophy:
 * Simon Lervåg Breivik
 * Marius Vårdal
