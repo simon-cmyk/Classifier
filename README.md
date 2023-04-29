@@ -18,11 +18,15 @@ Project Spring 2023
 The template for the report is fetched from the subject TFY4115 Physics.
 
 # Set up
- 
+
+```
+    git clone https://github.com/simon-cmyk/Classifier.git & cd TTT4275-CLASSIFIER
+``` 
+
 When the libraries are downloaded you can just go to `iris.ipynb` and `mnist.ipynb` and run them.
 ## Requirements 
-```python
-    pip install -r requirements.txt
+```
+    pip install -r requirements.txt & cd 
 ```
 #### In-case of difficulities:
 Feel free to contact:
