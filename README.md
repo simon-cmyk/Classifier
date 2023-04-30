@@ -1,7 +1,8 @@
 # TTT4275-Classifier :bowtie:
-Project Spring 2023
+## Project Spring 2023
 
 1. Classifying Iris species 
+
 [Tasks](Resources/iris.pdf)
 
 <img src="Resources/Klassene.jpg" width="200">
@@ -15,14 +16,14 @@ Project Spring 2023
 ## Report
 [Final report](Resources/TTT4275_Classifier_report.pdf)
 
-The template for the report is fetched from the subject TFY4115 Physics.
+can be found in the resources folder. 
+The report template is fetched from the subject TFY4115 Physics.
 
 # Set up
 
 ```
     git clone https://github.com/simon-cmyk/Classifier.git & cd TTT4275-CLASSIFIER
 ``` 
-
 When the libraries are downloaded you can just go to `iris.ipynb` and `mnist.ipynb` and run them.
 ## Requirements 
 ```
